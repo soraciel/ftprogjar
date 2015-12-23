@@ -1,0 +1,1 @@
+Kalau mau nge push, hapus dulu semua filenya. Sisain hanya satu file di masing2 folder
